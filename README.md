@@ -1,0 +1,1 @@
+The goal is to predict an apartment price, using the associated data about apartments conditions and their prices in an specific region in Tehran. The project contains data preprocessing, training a linear regression model, and evaluations.
